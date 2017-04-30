@@ -1,0 +1,7 @@
+[package]
+name = "endo"
+version = "0.1.0"
+authors = ["Colin Davidson <colin@pentaquine.com>"]
+
+[dependencies]
+image = "*"
